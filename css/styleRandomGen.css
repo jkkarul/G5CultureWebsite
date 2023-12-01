@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: system-ui;
+}
+.banner {
+    background-color:cyan;
+    background-image: url("../Images/GeneratorBackground.jpg");
+    background-size: cover;
+    color: lightgrey;
+
+
+    padding-top: 275px;
+    padding-bottom: 275px;
+}
+.button{
+    color:rgb(91, 168, 235);
+    font-weight: bold;
+    width: 30%;
+    height: 40%;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 10px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
