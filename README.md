@@ -1,5 +1,5 @@
 # Men Of Culture Website
-# Made by a group of retarded Individuals
+<p>Made by a group of retarded Individuals </p>
 <h1> Just Some Info</h1>
 <p>1. This Prototype Was Work On By Men Of Culture HighStudent</p>
 <p>2. This is Prototype if You Want For Us To Add Something Ask Us We Love To Hear Your Feedback</p>
