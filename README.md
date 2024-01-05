@@ -6,5 +6,5 @@
 <p> 3. Since This A Prototype Some Stuff Will Not Be Working/Not Included</p>
 <p> 4. Anyways This Website Is A Prototype So Some Functions Might Be Added Or Remove In The Full Version</p>
 <p>5. All Of The Website Was Created By: Group 5 / AKA The Batak Man Of Culture Squad </p>
-<div>![HubMainLogo](Images/HubMainLogo.jpg)</div>
+<div>![alt text](Images/HubMainLogo.jpg)</div>
 <div><a href="#" class=".approve" onclick="location.href='NewMainHub.html'">Continue</a></div>
