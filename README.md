@@ -1,2 +1,2 @@
-# KoshkaWebsite
-made by a dumbass yay
+# Men Of Culture Website
+made by a group of retarded Individuals
