@@ -1,3 +1,4 @@
 # Men Of Culture Website
 Made by a group of retarded Individuals
-<a href="#" class="button pill" class="./Images/HubMainLogo.jpg" onclick="location.href='Terms.html'">Continue</a>
+![alt text]()
+<a href="#" class="button pill" onclick="location.href='Terms.html'">Continue</a>
