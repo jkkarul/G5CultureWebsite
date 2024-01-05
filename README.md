@@ -1,2 +1,2 @@
 # Men Of Culture Website
-made by a group of retarded Individuals
+Made by a group of retarded Individuals
